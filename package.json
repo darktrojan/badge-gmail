@@ -1,0 +1,9 @@
+{
+	"name": "badge-gmail",
+	"fullName": "GMail Helper for Tab Badge",
+	"id": "jid1-6pAQmZxtMi4E5g",
+	"description": "Adds an \"unread items\" count to the page title when you're viewing GMail.",
+	"author": "Geoff Lankow",
+	"license": "MPL 2.0",
+	"version": "1"
+}
