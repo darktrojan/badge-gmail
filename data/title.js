@@ -48,4 +48,5 @@ let interval = setInterval(checkAtom, 30000);
 
 self.on("detach", function() {
 	observer.disconnect();
+	clearInterval(interval);
 });
